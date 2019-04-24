@@ -823,7 +823,7 @@ body {
     text-decoration: none;
     background: top left no-repeat, top right no-repeat, top center repeat-x #583722;
     background-size: auto 100%, auto 100%, auto 100%;
-    background-image: url("btn-mini-left.png"), url("btn-mini-right.png"), url("btn-mini-center.png");
+    background-image: url("https://i.imgur.com/qXWQdbC.png"), url("https://i.imgur.com/Eir5FDo.png"), url("https://i.imgur.com/reWC88M.png");
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     border-radius: 7px;
@@ -855,11 +855,11 @@ body {
 	color: #fff;
 }
 .decrease-button.btn-disabled {
-	background-image: url("btn-mini-disable-left.png"), url("btn-mini-disable-right.png"), url("btn-mini-disable-center.png");
+	background-image: url("https://i.imgur.com/ngt19iR.png"), url("https://i.imgur.com/fTZ72nq.png"), url("https://i.imgur.com/spR6jh3.png");
 	cursor: not-allowed;
 }
 .increase-button.btn-disabled {
-	background-image: url("btn-mini-disable-left.png"), url("btn-mini-disable-right.png"), url("btn-mini-disable-center.png");
+	background-image: url("https://i.imgur.com/ngt19iR.png"), url("https://i.imgur.com/fTZ72nq.png"), url("https://i.imgur.com/spR6jh3.png");
 	cursor: not-allowed;
 }
 
@@ -891,7 +891,7 @@ body {
     text-decoration: none;
     padding: 23px 30px 30px;
     background: top left no-repeat, top right no-repeat, top center repeat-x;
-	background-image: url("btn-generate-left.png"), url("btn-generate-right.png"), url("btn-generate-center.png");
+	background-image: url("https://i.imgur.com/E9AM0rd.png"), url("https://i.imgur.com/bJJ2ovs.png"), url("https://i.imgur.com/ReUK1XL.png");
     background-size: auto 100%, auto 100%, auto 100%;
     border: none;
 	font-family: supercell-magicregular;
@@ -1352,7 +1352,7 @@ img.sticky-close {
 .activity-generated-amount .activity-resourceitem1:before {
 	width: 20px;
 	height: 20px;
-	background: url('resource-1-img.png') center center;
+	background: url('https://i.imgur.com/CzsqCzW.png') center center;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	content: '';
@@ -1364,7 +1364,7 @@ img.sticky-close {
 .activity-generated-amount .activity-resourceitem2:before {
 	width: 20px;
 	height: 20px;
-	background: url('resource-2-img.png') center center;
+	background: url('https://i.imgur.com/M2vlkcV.png') center center;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	content: '';
@@ -1545,7 +1545,7 @@ img.sticky-close {
     text-decoration: none;
     background: top left no-repeat, top right no-repeat, top center repeat-x #583722;
     background-size: auto 100%, auto 100%, auto 100%;
-    background-image: url("btn-mini-left.png"), url("btn-mini-right.png"), url("btn-mini-center.png");
+    background-image: url("https://i.imgur.com/qXWQdbC.png"), url("https://i.imgur.com/Eir5FDo.png"), url("https://i.imgur.com/reWC88M.png");
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     border-radius: 7px;
