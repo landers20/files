@@ -1643,7 +1643,7 @@ b.highlighted-success {
 	display: none;
 }
 .message-content p.console-message {
-	font-size: 0.9em;
+	font-size: 0.95em;
 	text-align: center;
 	display: block;
 	color: #fff;
@@ -1651,6 +1651,7 @@ b.highlighted-success {
 	line-height: 1.6em;
 	display: none;
 	min-height: 30px;
+	letter-spacing: 1px;
 }
 .typed-cursor {
 	display: none;
@@ -2237,3 +2238,4 @@ footer a.popup-link, footer a.popup-link:visited {
 		font-size: 1.6em;
 	}
 }
+
